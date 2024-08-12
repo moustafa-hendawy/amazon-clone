@@ -1,5 +1,6 @@
 # screenshot
 ![alt text](https://github.com/moustafa-hendawy/amazon-clone/blob/main/public/screen1.jpg?raw=true)
+![alt text](https://github.com/moustafa-hendawy/amazon-clone/blob/main/public/screen2.jpg?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
